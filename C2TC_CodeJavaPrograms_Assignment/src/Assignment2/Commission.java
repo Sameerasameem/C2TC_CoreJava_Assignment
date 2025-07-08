@@ -5,6 +5,7 @@ public class Commission {
    private String Addresss;
    private int phone;
    private double salesAmount;
+   
 public String getName() {
 	return Name;
 }
