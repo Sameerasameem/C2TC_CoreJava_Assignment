@@ -1,7 +1,7 @@
-package Employees;
+package Assignment1.Employees;
 
 public class Manager extends Employee {
-	private String department;
+private String department;
 	
 	public Manager(String name, int id, double salary, String department) {
 		super(name,id,salary);
@@ -15,7 +15,5 @@ public class Manager extends Employee {
 	public void setDepartment(String department) {
 		this.department = department;
 	}
-	
-	
 
 }

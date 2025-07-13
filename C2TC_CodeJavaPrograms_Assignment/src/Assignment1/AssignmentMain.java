@@ -1,9 +1,8 @@
-
-package Utilities;
-import Employees.Developer;
-import Employees.Employee;
-import Employees.Manager;
-import Utilities.EmployeeUtilities;
+package Assignment1;
+import Assignment1.Employees.Developer;
+import Assignment1.Employees.Employee;
+import Assignment1.Employees.Manager;
+import  Assignment1.Utilities.EmployeeUtilities;
 
 public class AssignmentMain {
 	public static void main(String [] args) {
